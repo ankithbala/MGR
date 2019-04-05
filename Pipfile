@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+librosa = "==0.6.1"
+jupyter = "*"
+"h5py" = "==2.8.0"
+numpy = "*"
+scipy = "*"
+tensorflow = "==1.9.0"
+tensorflowjs = "==0.5.7"
+easygui = "*"
+pydot = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
