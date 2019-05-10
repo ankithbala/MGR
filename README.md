@@ -10,6 +10,7 @@ large-scale applications challenging.
 Our project focuses on classifying any given music into its respective
 genre such as pop, rock, disco etc. 
 
+Dataset Used: GTZAN ( http://opihi.cs.uvic.ca/sound/genres.tar.gz )
 Usage
 -----
 
