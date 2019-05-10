@@ -1,4 +1,14 @@
+# Musci Genre Recognition 
 
+Music genre recognition is an interesting area of research, dealing with
+recognizing and labeling the genre of the music. Research done in this area
+has been few since the algorithm to recognize music and input data are
+complex. An extraordinary range of information is hidden inside the music
+waveforms ranging from perceptual to auditory-which inevitably makes
+large-scale applications challenging.
+
+Our project focuses on classifying any given music into its respective
+genre such as pop, rock, disco etc. 
 
 Usage
 -----
